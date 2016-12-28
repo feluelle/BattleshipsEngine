@@ -2,11 +2,11 @@
 using System.Linq;
 using System.Drawing;
 
-using Battleships.Boxes;
-using Battleships.Ships;
-using Battleships.Exceptions;
+using Battleships.Engine.Boxes;
+using Battleships.Engine.Ships;
+using Battleships.Engine.Exceptions;
 
-namespace Battleships.PlayingField
+namespace Battleships.Engine.PlayingField
 {
 	/// <summary>
 	/// Spielfeld Helper: Hier werden andere/weitere Funktionen bereitgestellt

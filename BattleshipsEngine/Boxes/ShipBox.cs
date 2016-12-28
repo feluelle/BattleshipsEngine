@@ -1,4 +1,4 @@
-﻿namespace Battleships.Boxes
+﻿namespace Battleships.Engine.Boxes
 {
 	/// <summary>
 	/// Schiffskästchen

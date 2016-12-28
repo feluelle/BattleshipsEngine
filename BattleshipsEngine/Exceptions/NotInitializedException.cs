@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Battleships.Exceptions
+namespace Battleships.Engine.Exceptions
 {
     [Serializable]
     /// <summary>

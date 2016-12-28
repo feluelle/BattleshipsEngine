@@ -2,10 +2,10 @@
 using System.Drawing;
 using System.Runtime.Serialization;
 
-using Battleships.Ships;
-using Battleships.Boxes;
+using Battleships.Engine.Ships;
+using Battleships.Engine.Boxes;
 
-namespace Battleships.PlayingField
+namespace Battleships.Engine.PlayingField
 {
     /// <summary>
     /// Sagt aus in welche Richtung das Schiff vom Startpunkt aus verläuft.

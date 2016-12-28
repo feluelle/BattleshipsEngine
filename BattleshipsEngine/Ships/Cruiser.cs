@@ -1,8 +1,8 @@
 ﻿using System.Collections.Generic;
 
-using Battleships.Boxes;
+using Battleships.Engine.Boxes;
 
-namespace Battleships.Ships
+namespace Battleships.Engine.Ships
 {
 	/// <summary>
 	/// Schiffstyp: Kreuzer

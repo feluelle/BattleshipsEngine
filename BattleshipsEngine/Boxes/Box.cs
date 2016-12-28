@@ -1,9 +1,9 @@
 ﻿using System.Drawing;
 using System.Runtime.Serialization;
 
-using Battleships.PlayingField;
+using Battleships.Engine.PlayingField;
 
-namespace Battleships.Boxes
+namespace Battleships.Engine.Boxes
 {
     /// <summary>
     /// Sagt über Kästchen aus, ob diese zu einem Schiff gehören oder zu Wasser.

@@ -6,11 +6,11 @@ using System.Runtime.Serialization;
 using System.Windows.Forms;
 using System.Xml;
 
-using Battleships.Boxes;
-using Battleships.Exceptions;
-using Battleships.Ships;
+using Battleships.Engine.Boxes;
+using Battleships.Engine.Exceptions;
+using Battleships.Engine.Ships;
 
-namespace Battleships.PlayingField
+namespace Battleships.Engine.PlayingField
 {
     /// <summary>
     /// Spielfeld Controller: Hierüber wird das Spielfeld kontrolliert/verändert/benutzt.

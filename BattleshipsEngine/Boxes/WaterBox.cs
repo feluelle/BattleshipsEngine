@@ -1,6 +1,6 @@
 ﻿using System.Runtime.Serialization;
 
-namespace Battleships.Boxes
+namespace Battleships.Engine.Boxes
 {
     /// <summary>
     /// Wasserkästchen
